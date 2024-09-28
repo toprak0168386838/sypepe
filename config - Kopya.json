@@ -62,8 +62,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "us.0xpool.io:3333",
-            "user": "0x3717009Af2A321A03ba6d674C75aD0d54D1A5A2a",
+            "url": "auto.sypepe.org:2100",
+            "user": "0x6ebedFbA75aDDe8670ec34691B67d40Dd59F7C0E",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
